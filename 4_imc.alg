@@ -1,4 +1,4 @@
-algoritmo "soma"
+algoritmo "imc"
 // F9: Executa o código
 
 // Autor: Thiago
@@ -8,10 +8,10 @@ var
 peso, altura, imc: real
 inicio
       // Entrada
-      escreva ("Informe o peso: ")
+      escreva ("Informe o peso (em KG): ")
       leia (peso)
       
-      escreva ("Informe a altura: ")
+      escreva ("Informe a altura (em metros): ")
       leia (altura)
       
       // Processo
