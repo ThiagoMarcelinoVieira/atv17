@@ -1,4 +1,4 @@
-algoritmo "soma"
+algoritmo "media"
 // F9: Executa o código
 
 // Autor: Thiago

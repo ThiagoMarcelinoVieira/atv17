@@ -1,4 +1,4 @@
-algoritmo "soma"
+algoritmo "area"
 // F9: Executa o código
 
 // Autor: Thiago

@@ -1,4 +1,4 @@
-algoritmo "soma"
+algoritmo "trapezio"
 // F9: Executa o código
 
 // Autor: Thiago
